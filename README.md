@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vdeloi
 - 👀 I’m interested in ML, scientific computing and numerical methods 
 - 🌱 I’m currently learning C
-- 💞️ I’m not looking to collaborate on anything currently
 - 📫 vdeloi@outlook.com
 
 <!---
