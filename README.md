@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vdeloi
-- 👀 I’m interested in ML, scientific computing and numerical methods 
-- 🌱 I’m currently learning C
-- 📫 vdeloi@outlook.com
+- 👀 I’m interested in scientific computing, numerical methods and genetic algorithms
+- 🌱 I’m currently learning Java
+- 📫 v251716@dac.unicamp.br
 
 <!---
 vdeloi/vdeloi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
