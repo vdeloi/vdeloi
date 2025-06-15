@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vdeloi
-- 👀 I’m interested in scientific computing, numerical methods and genetic algorithms
+- 👀 I’m interested in numerical methods, quantum algorithms
 - 🌱 I’m currently learning Java
 - 📫 v251716@dac.unicamp.br
 
